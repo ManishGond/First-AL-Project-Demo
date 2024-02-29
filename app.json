@@ -1,0 +1,27 @@
+{
+  "id": "d6826454-5f67-4dce-a131-92a81d4567ab",
+  "name": "My First Extension",
+  "publisher": "Cronus International Ltd.",
+  "version": "3.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "runtime": "8.0",
+  "features": [
+    "NoImplicitWith", "TranslationFile"
+  ]
+}
